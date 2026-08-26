@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF6B6B,50:A855F7,100:3B82F6&text=Hi%20there,%20I'm%20Prem%20Jadhav%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Backend%20%2B%20AI%20Developer&descAlignY=55&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%92%BB;Backend+%2B+AI+Developer+%F0%9F%A4%96;DSA+%7C+System+Design+%7C+LLMs+%E2%9A%A1;Turning+ideas+into+scalable+systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=00FF9C&background=0D1117&center=true&vCenter=true&width=650&height=100&lines=%24+whoami;%3E+prem_jadhav+%E2%80%94+software+engineer;%24+git+log+--stats;%3E+DSA+%7C+System+Design+%7C+Backend+%7C+AI;%24+echo+%22building+scalable+systems...%22" alt="Terminal Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   </a>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transition&height=60&color=0:FF6B6B,100:A855F7" />
 
 ### 🚀 About Me
 
@@ -23,13 +23,13 @@
 - 🌱 Always sharpening skills across the **full stack** — from React UIs to Dockerized microservices
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/premjadhav24/)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transition&height=60&color=0:A855F7,100:6366F1" />
 
 ### 🧠 Core Fundamentals
 
 `Data Structures & Algorithms` `Object-Oriented Programming` `System Design` `Debugging`
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transition&height=60&color=0:6366F1,100:3B82F6" />
 
 ### 🛠️ Tech Stack
 
@@ -90,7 +90,7 @@
   <img src="https://raw.githubusercontent.com/premjadhav2203/premjadhav2203/output/github-contribution-grid-snake.svg" alt="Snake animation eating contribution graph" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transition&height=80&color=0:A855F7,100:3B82F6" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=premjadhav2203&style=flat-square&color=blue" alt="Profile views" />
