@@ -1,8 +1,7 @@
-<h1 align="center">Hi there, I'm Prem Jadhav 👋</h1>
-<h3 align="center">Software Engineer | Backend & AI Enthusiast | Building scalable systems</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF6B6B,50:A855F7,100:3B82F6&text=Hi%20there,%20I'm%20Prem%20Jadhav%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Backend%20%2B%20AI%20Developer&descAlignY=55&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%2B+AI+Developer;DSA+%7C+System+Design+%7C+LLMs;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%92%BB;Backend+%2B+AI+Developer+%F0%9F%A4%96;DSA+%7C+System+Design+%7C+LLMs+%E2%9A%A1;Turning+ideas+into+scalable+systems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -57,8 +56,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=flat-square&logo=ai&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=flat-square&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 </p>
 
 **Cloud & DevOps**
@@ -83,19 +84,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=premjadhav2203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premjadhav2203&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=premjadhav2203&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=premjadhav2203&theme=tokyo-night&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/premjadhav2203/premjadhav2203/output/github-contribution-grid-snake.svg" alt="Snake animation eating contribution graph" />
 </p>
 
 ---
@@ -105,3 +97,5 @@
 </p>
 
 <p align="center"><i>⚡ Let's connect and build something great together!</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer&animation=fadeIn" />
