@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transition&height=60&color=0:FF6B6B,100:A855F7" />
+---
 
 ### 🚀 About Me
 
@@ -23,13 +23,13 @@
 - 🌱 Always sharpening skills across the **full stack** — from React UIs to Dockerized microservices
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/premjadhav24/)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transition&height=60&color=0:A855F7,100:6366F1" />
+---
 
 ### 🧠 Core Fundamentals
 
 `Data Structures & Algorithms` `Object-Oriented Programming` `System Design` `Debugging`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transition&height=60&color=0:6366F1,100:3B82F6" />
+---
 
 ### 🛠️ Tech Stack
 
@@ -89,8 +89,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/premjadhav2203/premjadhav2203/output/github-contribution-grid-snake.svg" alt="Snake animation eating contribution graph" />
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transition&height=80&color=0:A855F7,100:3B82F6" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=premjadhav2203&style=flat-square&color=blue" alt="Profile views" />
